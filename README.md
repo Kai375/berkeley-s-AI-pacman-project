@@ -1,4 +1,4 @@
-# berkeley-s-AI-pacman-project
+# berkeley-s AI pacman project
 UC Berkeley CS188 Intro to AI.
 
 # This project has been developed in berkeley university by John DeNero, Dan Klein and Pieter Abbeel.
@@ -13,25 +13,29 @@ To use the autograder, type `python autograder.py` in the terminal.
 
 In order to keep the README short and simple, I will reference you to the project's full description here: https://ai.berkeley.edu/search.html
 
+## In order to run it, you will need python version 3.6.
+
 # Questions:
-# The answers can be found under *** YOUR CODE HERE ***
-# I advise to use the given link for better orientation.
 
-*Q1:* Finding a Fixed Food Dot using Depth First Search.
 
-*Q2:* Breadth First Search.
+## The answers can be found under *** YOUR CODE HERE ***
+## I advise to use the given link for better orientation.
 
-*Q3:* Varying the Cost Function.
+*Q1: Finding a Fixed Food Dot using Depth First Search.
 
-*Q4:* A* search.
+*Q2: Breadth First Search.
 
-*Q5:* Finding All the Corners.
+*Q3: Varying the Cost Function.
 
-*Q6:* Corners Problem: Heuristic.
+*Q4: A* search.
 
-*Q7:* Eating All The Dots.
+*Q5: Finding All the Corners.
 
-*Q8:* Suboptimal Search.
+*Q6: Corners Problem: Heuristic.
+
+*Q7: Eating All The Dots.
+
+*Q8: Suboptimal Search.
 
  
 
